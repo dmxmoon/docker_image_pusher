@@ -1,2 +1,2 @@
-ghcr.io/appleboy/drone-ssh:1.7.0
+gitea/gitea:1.20.5
 --platform=arm64
