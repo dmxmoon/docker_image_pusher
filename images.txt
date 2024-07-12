@@ -1,1 +1,2 @@
-atlas
+ghcr.io/appleboy/drone-ssh:1.7.0
+--platform=arm64
