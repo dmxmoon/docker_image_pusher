@@ -1,1 +1,1 @@
-nginx
+gitlab-runner-helper:x86_64-340a666c
