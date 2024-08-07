@@ -1,1 +1,1 @@
-gitlab-runner-helper:x86_64-340a666c
+budtmo/docker-android:emulator_11.0
