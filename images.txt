@@ -1,1 +1,2 @@
-budtmo/docker-android:emulator_11.0
+node:20
+--platform=arm64
